@@ -49,5 +49,5 @@ python CoinCount.py
 
 2. For task 2
  ```bash
-python CoinCount.py
+python StitchImages.py
 ``` 
