@@ -21,7 +21,9 @@ This project detects and counts metallic coins in an image using computer vision
 Ensure the following libraries are installed before running the script:  
 ```bash
 pip install numpy opencv-python matplotlib
+```  <!-- End the bash code block properly -->
 
-## How to Run the code
+## How to Run the Code  
 ```bash  
 python CoinCount.py
+```  <!-- End the bash code block properly -->
